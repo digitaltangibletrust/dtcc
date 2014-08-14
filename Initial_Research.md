@@ -1,6 +1,6 @@
 
 
-(This guy explains clearing pretty well [http://gendal.wordpress.com/category/clearing/](http://gendal.wordpress.com/category/clearing/)
+(Richard Glendal Brown explains clearing pretty well [http://gendal.wordpress.com/category/clearing/](http://gendal.wordpress.com/category/clearing/)
 
 # Depository Trust Corporation Company Breakdown
 (note to the reader: none of this should be easy to understand. It is a complex and confusing 'black box' system). Before reading this, one should familiarize themselves with a glossary of all terms used in this industry (see Appendix C.)
@@ -126,7 +126,7 @@ Under the authority of the U.S. Dodd-Frank Act, the U.S. Financial Stability Ove
 
 
 
-[Financials](http://www.dtcc.com/~/media/Files/Downloads/legal/financials/2013/DTC_2013_2012_Annual_Financial_Statements.pdf):
+# [Financials](http://www.dtcc.com/~/media/Files/Downloads/legal/financials/2013/DTC_2013_2012_Annual_Financial_Statements.pdf):
 
 (see above link for actual balance sheet/statement of income/retained earnings/cash flow documents FY 2013)
 
@@ -157,31 +157,19 @@ securities lost while in the custody of an armored carrier.
 It should be noted that DTCC/DTC is owned and run by financial industry moguls. More specifically, the DTC is owned by the banks they serve.
 
 Board of Directors:
-
 Robert Druskin - Executive chairman of DTCC
-
 Michael C Bodson - President and CEO of DTCC; DTC
-
 Robert L.D. Colby - Chief Legal Officer of FINRA
-
 Paul H. Compton - CAO of JPMorgan Chase
-
 Chris Concannon - Partner and VP of Virtu Finance LLC
 
 Management Committee:
-
 Robert Druskin - Executive chairman of DTCC
-
 (Previously lead director at E\*trade and SMG at Citigroup)
-
 Michael C Bodson - President and CEO of DTCC; DTC (also in charge of NSCC, FICC)
-
 (Came from SMG at Morgan Stanley as global head of institutional, retail and asset management)
-
 Noel Donohoe - Executive Managing Director and Group Chief Risk Officer
-
 Paul Garrison - Managing Director and Chief Information Officer at DTCC
-
 Andrew Gray - Managing Director, Core business mgt and Chairman of the European Central Counterparty Ltd. (subsidary of DTCC)
 
 Donna Milrod - Managing Director and Chief Admin Officer
@@ -208,7 +196,7 @@ an incomplete google book written on the DTC by a DTC board member:
 [http://books.google.com/books?id=xyzEiM1WVnYC&printsec=frontcover#v=onepage&q&f=false](http://books.google.com/books?id=xyzEiM1WVnYC&printsec=frontcover#v=onepage&q&f=false)
 
 
-Important info on DTCC and NSCC
+# Important info on DTCC and NSCC
 
 explaining the below is [http://www.bis.org/publ/cpss105\_us.pdf](http://www.bis.org/publ/cpss105_us.pdf)
 
@@ -226,7 +214,7 @@ National Securities Clearing Corp (NSCC)-they provide **central counterparty cle
 
 On settlement date (T+3), NSCC's continuous net settlement (CNS) system instructs DTC to deliver available securities from members with net delivery obligations to NSCC's settlement account and then deliver those securities to members with net receive obligations. These securities deliveries are made free of payment within DTC and are provisional intraday (with respect to the receiver) until end-of-day payment (approximately 16:30 ET) is made over NSS.23 The DTC and NSCC end-of-day net funds settlement process is executed over a single NSS file. Each DTC and NSCC member must designate a settling bank that participates in the DTC-NSCC NSS arrangement. DTC and NSCC calculate a net-net funds settlement obligation for their common members by netting their separate DTC and NSCC net funds obligations.
 
-How NSCC Cover's their liabilities:
+# How NSCC Cover's their liabilities:
 
 They hold a risk of having some member going broke and not being able to actually pay up a transaction, so they must hold funds to make sure if anything goes wrong, people still get their money. This is a HUGE requirement.  They resources, primarily in the form of member's fund deposits, to cover the failure of a member having the largest net debit in extreme but plausible market conditions. Their clearing fund is calculated by looking at the daily mark to market changes (measured by the unrealised profit or loss in a members portfolio using contract prices versus market prices of the securities they are clearing.
 
