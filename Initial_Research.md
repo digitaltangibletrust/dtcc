@@ -2,22 +2,18 @@
 
 (This guy explains clearing pretty well [http://gendal.wordpress.com/category/clearing/](http://gendal.wordpress.com/category/clearing/)
 
-Depository Trust Corporation Company Breakdown
-
+# Depository Trust Corporation Company Breakdown
 (note to the reader: none of this should be easy to understand. It is a complex and confusing 'black box' system). Before reading this, one should familiarize themselves with a glossary of all terms used in this industry (see Appendix C.)
 
-Functions:
-
+## Functions:
 DTC is a custodian of securities, and a securities settlement services. They do not actually dematerialize securities, but rather just immobilize them . They provide account holders with both a securities account and a USD cash account to facilitate payments. They do not provide any trade settling services, but this is rather carried out by their other company NSCC. It is important to note that they do all these activities in-house, not outsourcing any part of it.
 
 They also facilitate lending and borrowing transactions among their participants of securities.
 
-Explanation of the lending capacity:
-
+## Explanation of the lending capacity:
 Securities lent by one Participant to another can be delivered by book-entry either free or against payment. DTC's payment order service provides a vehicle for the transfer of cash between securities borrowers and lenders to account for adjustments in the market value of the borrowed securities during the period the loan is outstanding.
 
-Custodial Services:
-
+## Custodial Services:
 Now there is a whole group of functions DTC provides while they hold your securities in custody (known as custodial service activities), b/c securities require a fair amount of maintenance: dividends, voting rights and transference.
 
 - Dividends: DTC collects and distributes dividends and interest to its participants.
@@ -31,93 +27,57 @@ Now there is a whole group of functions DTC provides while they hold your securi
 - Taxes on dividends: they have arrangements with the tax authorities of different countries to have the holder of the security receive reduced withholdings, rather than a refund at a later date. 
 - Underwriting (insurance): DTC permits underwriters of new and secondary issues of securities to distribute them by book-entry against payment through the depository.
 
-Types of Securities DTC Holds:
+## Types of Securities DTC Holds:
 
-DEBT (in addition to Government and Municipal Debt)
+### DEBT (in addition to Government and Municipal Debt)
+* Asset Backed Securities
+* Auction Rate Notes
+* Bank Notes
+* Certificates of Deposit (Retail & Institutional CDs)
+* Collateral Mortgage Obligations (CMOs)
+* Commercial Paper (CP)
+* Consumer Price Index-Linked Bonds (CPI Bonds)
+* Convertible Debt
+* Corporate Bonds
+* Deposit Notes
+* Discount Notes
+* Insured Custodial Receipts
+* Medium Term Notes (MTNs)
+* Notes/Tender Rate Notes- 5 -
+*  Variable Rate Demand Obligations (VRDOs)
+* Zero Coupon Bonds
 
-Asset Backed Securities
+### EQUITY
+* American Depositary Receipts (ADRs)
+* Auction Rate Preferred Securities
+* Closed End Funds
+* Common Stock
+* Limited Partnerships
+* Preferred Stock
+* Rights to Purchase Securities
+* Unit Investment Trusts (UITs)
+* Units
+* Warrants
 
-Auction Rate Notes
+### GOVERNMENT SECURITIES
+* Brady Bonds
+* Non-U.S. Government Debt
+* U.S. Treasury, Federal Agency and Government Sponsored Enterprises
+* Issues
 
-Bank Notes
-
-Certificates of Deposit (Retail & Institutional CDs)
-
-Collateral Mortgage Obligations (CMOs)
-
-Commercial Paper (CP)
-
-Consumer Price Index-Linked Bonds (CPI Bonds)
-
-Convertible Debt
-
-Corporate Bonds
-
-Deposit Notes
-
-Discount Notes
-
-Insured Custodial Receipts
-
-Medium Term Notes (MTNs)
-
-Notes/Tender Rate Notes- 5 -
-
-Variable Rate Demand Obligations (VRDOs)
-
-Zero Coupon Bonds
-
-EQUITY
-
-American Depositary Receipts (ADRs)
-
-Auction Rate Preferred Securities
-
-Closed End Funds
-
-Common Stock
-
-Limited Partnerships
-
-Preferred Stock
-
-Rights to Purchase Securities
-
-Unit Investment Trusts (UITs)
-
-Units
-
-Warrants
-
-GOVERNMENT SECURITIES
-
-Brady Bonds
-
-Non-U.S. Government Debt
-
-U.S. Treasury, Federal Agency and Government Sponsored Enterprises
-
-Issues
-
-MUNICIPAL SECURITIES
-
-Auction Rate Notes
-
-Insured Custodian Receipts
-
-Municipal Bonds
-
-Municipal Notes
-
-Variable Rate Demand Obligations (VRDOs)
+### MUNICIPAL SECURITIES
+* Auction Rate Notes
+* Insured Custodian Receipts
+* Municipal Bonds
+* Municipal Notes
+* Variable Rate Demand Obligations (VRDOs)
 
 
 
-Operations:
-
+# Operations:
 DTC's functions are clearly outlined-it is important to note that they are part of a much larger system that is all intertwined by the same company. This post will explain the much larger picture as to [how, and why a central securities deposit exists](http://gendal.wordpress.com/2014/01/05/a-simple-explanation-of-how-shares-move-around-the-securities-settlement-system/).  See Appendix A. to gain more insight as to how they fit into the system.
 
-Membership Levels:
+# Membership Levels:
 
 - Full Service Members-"Participants"
   - required to make a minimum deposit to the Participants Fund
@@ -125,14 +85,14 @@ Membership Levels:
 - Membership for certain services- "Limited Participants"
   - May not be required to make a deposit/contribution to the Participants Fund
 
-Membership Admittance Requirements:
+# Membership Admittance Requirements:
 
 - demonstration that it meets reasonable standards of financial responsibility, operational capability, and character. 
 - Capital and financial stability- DTC does NOT admit anyone with less than $500,000 in net capital or banks with less than $2 Million in equity. These requirements are reviewed quarterly by the DTC compliance dept. 
 - Operational Capacity: must have personnel and data processing capacity to meet technical demands of interfacing with DTC's depository. 
 - There are a plethora of reasons as to why the DTC can terminate membership.
 
-Transactions:
+# Transactions:
 
 - The DTC receives instructions from the central counterparty, which has done the process of matching, to which they then 'settle' the transaction. 
 - When a participant deposits a security, they are given an immediate credit for it in their account that they can use to affect book-entry transactions. Those securities are then sent to DTC's nominee, Cede & Co, who essentially hold all the physical securities. It would seem that DTC runs the bookkeeping and transactions of securities held there. Cede & Co are technically owned by DTC participants to fit a loophole. Essentially, it allows them to order transfers of stock registered in the name of the partnership without the need of presenting a separate corporate resolution to the stock issuer's transfer agent or stock registrar to validate the authority of the transfer.
@@ -150,7 +110,7 @@ Transactions:
 
 
 
-Legal/Regulatory:
+# Legal/Regulatory:
 
 All below is under NY state banking and state regulation.
 
